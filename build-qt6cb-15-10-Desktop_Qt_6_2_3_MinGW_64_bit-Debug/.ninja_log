@@ -1,0 +1,39 @@
+# ninja log v5
+3	2260	6676474186174861	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+3	2260	6676474186174861	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+3	2260	6676474186174861	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+3	2260	6676474186174861	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+2272	7155	6676474239668373	CMakeFiles/qt6cb-15-10.dir/pet.cpp.obj	799cac7f2099a997
+2262	7360	6676474241724035	CMakeFiles/qt6cb-15-10.dir/qt6cb-15-10_autogen/mocs_compilation.cpp.obj	2714d98284187b7f
+2267	7577	6676474243998056	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+7578	8241	6676474250450795	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5
+86	2100	6676481043222650	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+86	2100	6676481043222650	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+86	2100	6676481043222650	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+86	2100	6676481043222650	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+2186	10422	6676481126616085	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+10423	11348	6676481135627760	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5
+38	804	6676482241353211	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+38	804	6676482241353211	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+38	804	6676482241353211	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+38	804	6676482241353211	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+849	6121	6676482294309521	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+6123	7093	6676482304117353	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5
+43	796	6676482439161454	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+43	796	6676482439161454	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+43	796	6676482439161454	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+43	796	6676482439161454	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+830	5847	6676482489556774	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+5849	6741	6676482498410002	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5
+19	880	6676483183970823	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+19	880	6676483183970823	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+19	880	6676483183970823	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+19	880	6676483183970823	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+915	6911	6676483244420688	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+6913	7591	6676483251138783	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5
+28	894	6676483786024415	qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+28	894	6676483786024415	qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+28	894	6676483786024415	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/timestamp	2a69177bbd3574e6
+28	894	6676483786024415	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-10-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-10_autogen/mocs_compilation.cpp	2a69177bbd3574e6
+938	7359	6676483850499216	CMakeFiles/qt6cb-15-10.dir/main.cpp.obj	3a55314a002a8ee2
+7362	8326	6676483860110214	qt6cb-15-10.exe	e5ea2ccb2c3ea8d5

@@ -1,0 +1,9 @@
+# ninja log v5
+4	2480	6675567706192608	qt6cb-8-3_autogen/timestamp	c317e2e32d60cdbd
+4	2480	6675567706192608	qt6cb-8-3_autogen/mocs_compilation.cpp	c317e2e32d60cdbd
+4	2480	6675567706192608	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-8-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-8-3_autogen/timestamp	c317e2e32d60cdbd
+4	2480	6675567706192608	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-8-3-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-8-3_autogen/mocs_compilation.cpp	c317e2e32d60cdbd
+2483	7835	6675567764227038	CMakeFiles/qt6cb-8-3.dir/qt6cb-8-3_autogen/mocs_compilation.cpp.obj	3ed8caa0d1308186
+2490	7852	6675567764456633	CMakeFiles/qt6cb-8-3.dir/main.cpp.obj	df5245c9fa7ba7ed
+2495	7854	6675567764586074	CMakeFiles/qt6cb-8-3.dir/laptop.cpp.obj	8b64b64df10472b2
+7855	8664	6675567772665300	qt6cb-8-3.exe	a2cf249fdd5bdb0f

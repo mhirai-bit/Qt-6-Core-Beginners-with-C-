@@ -1,0 +1,36 @@
+# ninja log v5
+2	821	6676430320805131	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+2	821	6676430320805131	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+2	821	6676430320805131	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+2	821	6676430320805131	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+823	1085	6676430326145690	CMakeFiles/qt6cb-15-5.dir/qt6cb-15-5_autogen/mocs_compilation.cpp.obj	61876cc7027f9748
+10	635	6676430395528896	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+10	635	6676430395528896	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+10	635	6676430395528896	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+10	635	6676430395528896	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+645	5041	6676430439575710	CMakeFiles/qt6cb-15-5.dir/main.cpp.obj	6011868a52bc90e5
+5053	5573	6676430444842355	qt6cb-15-5.exe	b2c1440579df39fa
+32	441	6676430804140189	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+32	441	6676430804140189	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+32	441	6676430804140189	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+32	441	6676430804140189	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+451	4909	6676430848819216	CMakeFiles/qt6cb-15-5.dir/main.cpp.obj	6011868a52bc90e5
+4910	5418	6676430853761624	qt6cb-15-5.exe	b2c1440579df39fa
+21	527	6676431201447948	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+21	527	6676431201447948	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+21	527	6676431201447948	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+21	527	6676431201447948	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+542	4670	6676431242969077	CMakeFiles/qt6cb-15-5.dir/main.cpp.obj	6011868a52bc90e5
+4671	5259	6676431248700608	qt6cb-15-5.exe	b2c1440579df39fa
+38	461	6676431797102021	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+38	461	6676431797102021	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+38	461	6676431797102021	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+38	461	6676431797102021	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+470	4592	6676431838367575	CMakeFiles/qt6cb-15-5.dir/main.cpp.obj	6011868a52bc90e5
+4593	5145	6676431843868116	qt6cb-15-5.exe	b2c1440579df39fa
+37	466	6676432481048721	qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+37	466	6676432481048721	qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+37	466	6676432481048721	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/timestamp	1a750c09e464c57c
+37	466	6676432481048721	C:/Users/pictu/Documents/Study/Udemy/Qt 6 Core Beginners with C++/build-qt6cb-15-5-Desktop_Qt_6_2_3_MinGW_64_bit-Debug/qt6cb-15-5_autogen/mocs_compilation.cpp	1a750c09e464c57c
+490	4977	6676432526131014	CMakeFiles/qt6cb-15-5.dir/main.cpp.obj	6011868a52bc90e5
+4979	5605	6676432532267120	qt6cb-15-5.exe	b2c1440579df39fa
